@@ -7,7 +7,7 @@ Welcome to my project portfolio! This repository showcases the projects I've wor
 - **Technologies**: Git, GitHub, Markdown
 - **What I Learned**: Version control, technical writing, software development fundamentals
 ### 2. Software Foundation Summary
-**Repository**: [software-foundation-summary](link-to-your-repo)
+**Repository**: [software-foundation-summary](https://github.com/Sharouq2512/software-foundation-summary-)
 - **Description**: Comprehensive reports on SDLC, Agile, and web development
 - **Technologies**: Git, GitHub, Technical Documentation
 - **What I Learned**: SDLC methodologies, Agile practices, .NET stack
@@ -19,4 +19,4 @@ Welcome to my project portfolio! This repository showcases the projects I've wor
 - :white_check_mark: Git & GitHub fundamentals
 - :white_check_mark: Software Development Life Cycle
 - :white_check_mark: Web Development basics
-- :arrows_counterclockwise: Currently learning: [Your current focus]
+- :arrows_counterclockwise: Currently learning: C#
